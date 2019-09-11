@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -65,6 +64,6 @@ int main()
     close(s);
     return 0;
 }
-————————————————
-版权声明：本文为CSDN博主「jirryzhang」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/jirryzhang/article/details/79417986
+//————————————————
+//版权声明：本文为CSDN博主「jirryzhang」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+//原文链接：https://blog.csdn.net/jirryzhang/article/details/79417986
